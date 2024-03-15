@@ -10,3 +10,35 @@
 ## Week 4: 29.03.24: Data cleaning  
 -
 -
+
+# Steps
+- Scraping/Data collection:
+  - Web-scraping with selenium 
+  - Manual scraping
+- Data organisation 
+  - file formats 
+- Task description - [informal]
+- Data cleaning - prestage 
+  - Collectively decide and document decisions taken for creating dataset. 
+  - Follow the guidelines. 
+  - Removal of metadata (yes/no)
+- Data annotation 
+- Annotation schemes
+- Data cleaning- postage 
+- Exploratory data analysis 
+  - Data distribution 
+  - Size – Tokens and sentences/documents 
+- Problem definition - [formal]
+- Data annotation 
+  - Annotation guidelines 
+  - Conflict handling 
+  - Inter-annotator
+  - Label distribution 
+- Modelling 
+- Performance metrics 
+- Error Analysis 
+- Data Serving 
+
+# Groups
+- https://github.com/laracoen/MKLPM/blob/main/README.md
+- https://github.com/BoViNiMa/OPJ/tree/main 
