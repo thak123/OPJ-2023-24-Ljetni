@@ -11,7 +11,7 @@
 -
 -
 
-# Steps
+# Project Steps
 - Scraping/Data collection:
   - Web-scraping with selenium 
   - Manual scraping
