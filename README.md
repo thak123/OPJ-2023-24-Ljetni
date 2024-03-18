@@ -42,7 +42,6 @@
 13. Data Serving 
 
 - **Some steps might involve multiple iterations like preprocessing/cleaning**
-- 
 - Incase you finish one step you can read about next step.
 
 **Useful Links**
