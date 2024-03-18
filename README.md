@@ -12,34 +12,34 @@
 -
 
 # Project Steps
-- Scraping/Data collection. Either use:
+1. Scraping/Data collection. Either use:
   - Web-scraping with selenium  or
   - Manual scraping
-- Data organisation 
+2. Data organisation 
   - file formats 
-- Task description - [informal]
-- Data cleaning - Pre
+3. Task description - [informal]
+4. Data cleaning - Pre
   - Collectively decide and **document decisions** taken for creating dataset. 
   - Follow the instructions. These are the same as those detailed in the presentation.   
     - [Sinclair, J. (2004). Corpus and Text – Basic Principles. U: Wynne, M.,  DevelopingLinguistic Corpora: A Guide to Good Practice.](http://users.ox.ac.uk/~martinw/dlc/)
     - [Developing Linguistic Corpora: a Guide to Good Practice](http://icar.cnrs.fr/ecole_thematique/contaci/documents/Baude/wynne.pdf) . 
   - Removal of metadata (yes/no)
-- Data annotation 
-- Annotation schemes
-- Data cleaning- Post
-- Exploratory data analysis 
+5. Data annotation 
+6. Annotation schemes
+7. Data cleaning- Post
+8. Exploratory data analysis 
   - Data distribution 
   - Size – Tokens and sentences/documents 
-- Problem definition - [formal]
-- Data annotation 
+9. Problem definition - [formal]
+10. Data annotation 
   - Annotation guidelines 
   - Conflict handling 
   - Inter-annotator Agreement
   - Label distribution 
-- Modelling 
-- Performance metric 
-- Error Analysis 
-- Data Serving 
+10. Modelling 
+11. Performance metric 
+12. Error Analysis 
+13. Data Serving 
 
 - **Some steps might involve multiple iterations like preprocessing**
 - Incase you finish one step
