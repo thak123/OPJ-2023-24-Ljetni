@@ -47,6 +47,12 @@
 **Useful Links**
 - [Learn Markdown/Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+  
+# Tools
+- [Classla](https://pypi.org/project/classla/)
+- [Stanza](https://stanfordnlp.github.io/stanza/neural_pipeline.html)
+- [Spacy](https://spacy.io/models/hr)
+  
 # Groups
 - https://github.com/laracoen/MKLPM/blob/main/README.md
 - https://github.com/BoViNiMa/OPJ/tree/main 
