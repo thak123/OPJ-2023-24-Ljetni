@@ -41,8 +41,9 @@
 12. Error Analysis 
 13. Data Serving 
 
-- **Some steps might involve multiple iterations like preprocessing**
-- Incase you finish one step
+- **Some steps might involve multiple iterations like preprocessing/cleaning**
+- 
+- Incase you finish one step you can read about next step.
 
 **Useful Links**
 - [Learn Markdown/Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
