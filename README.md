@@ -12,19 +12,21 @@
 -
 
 # Project Steps
-- Scraping/Data collection:
-  - Web-scraping with selenium 
+- Scraping/Data collection. Either use:
+  - Web-scraping with selenium  or
   - Manual scraping
 - Data organisation 
   - file formats 
 - Task description - [informal]
-- Data cleaning - prestage 
+- Data cleaning - Pre
   - Collectively decide and document decisions taken for creating dataset. 
-  - Follow the guidelines. 
+  - Follow the instructions. These are the same as those detailed in the presentation.   
+    - [Sinclair, J. (2004). Corpus and Text – Basic Principles. U: Wynne, M.,  DevelopingLinguistic Corpora: A Guide to Good Practice.](http://users.ox.ac.uk/~martinw/dlc/)
+    - [Developing Linguistic Corpora: a Guide to Good Practice](http://icar.cnrs.fr/ecole_thematique/contaci/documents/Baude/wynne.pdf) . 
   - Removal of metadata (yes/no)
 - Data annotation 
 - Annotation schemes
-- Data cleaning- postage 
+- Data cleaning- Post
 - Exploratory data analysis 
   - Data distribution 
   - Size – Tokens and sentences/documents 
@@ -32,12 +34,13 @@
 - Data annotation 
   - Annotation guidelines 
   - Conflict handling 
-  - Inter-annotator
+  - Inter-annotator Agreement
   - Label distribution 
 - Modelling 
-- Performance metrics 
+- Performance metric 
 - Error Analysis 
 - Data Serving 
+**Some steps might involve multiple iterations like preprocessing**
 
 # Groups
 - https://github.com/laracoen/MKLPM/blob/main/README.md
