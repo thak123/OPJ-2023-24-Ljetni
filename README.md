@@ -57,4 +57,5 @@
 - https://github.com/laracoen/MKLPM/blob/main/README.md
 - https://github.com/BoViNiMa/OPJ/tree/main 
 - https://github.com/Sentimentalci/opjprojekt
-- https://github.com/My-Croatian-is-better-than-yours/SA-Comments/tree/main 
+- https://github.com/My-Croatian-is-better-than-yours/SA-Comments/tree/main
+- https://github.com/Serious-bus1ness/Uvod-u-projekt  
