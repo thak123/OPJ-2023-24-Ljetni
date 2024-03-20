@@ -12,12 +12,14 @@
 -
 
 # Project Steps
-1. Scraping/Data collection. Either use:
+1. Scraping/Data collection. **Data Size**: Start with a manageable amount (e.g., 1000-5000 sentences) and increase if required. Either use:
   - Web-scraping with selenium  or
   - Manual scraping
 2. Data organisation 
   - file formats 
 3. Task description - [informal]
+  - Goal: Are you building a sentiment analysis model for product reviews, social media analysis, or something else?
+  - Target Sentiment: Are you interested in just positive/negative sentiment, or a wider range (e.g., very positive, neutral, very negative)?
 4. Data cleaning - Pre
   - Collectively decide and **document decisions** taken for creating dataset. 
   - Follow the instructions. These are the same as those detailed in the presentation.   
