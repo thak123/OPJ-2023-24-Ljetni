@@ -34,7 +34,7 @@
   - Size – Tokens and sentences/documents 
 9. Problem definition - [formal]
 10. Data annotation 
-  - Annotation guidelines 
+  - Annotation guidelines: [Example 1 for negation detection](https://github.com/ltgoslo/norec_neg/blob/main/annotation_guidelines/guidelines_neg.md)
   - Conflict handling 
   - Inter-annotator Agreement
   - Label distribution 
