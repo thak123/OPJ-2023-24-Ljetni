@@ -4,7 +4,7 @@
 ## Week 3: 15.03.24: Corpus collection 
 ## Week 4: 22.03.24: Corpus collection complete 
 ## Week 5: 29.03.24: Data cleaning complete
-## Week 6: 05.03.24: Intial annotation campaign with 150 instances done.
+## Week 6: 05.03.24: Initial annotation campaign with 150 instances done.
 ## Week 7: 12
 ## Week 8: 19
 ## Week 9: 26
