@@ -1,15 +1,17 @@
 # OPJ-2023-24
-## Week 0: 
-## Week 1: 
-## Week 2: 15.03.24: Corpus collection 
--
--
-## Week 3: 22.03.24: Corpus collection complete 
--
--
-## Week 4: 29.03.24: Data cleaning complete
--
--
+## Week 1: 1
+## Week 2: 8
+## Week 3: 15.03.24: Corpus collection 
+## Week 4: 22.03.24: Corpus collection complete 
+## Week 5: 29.03.24: Data cleaning complete
+## Week 6: 05.03.24: Intial annotation campaign with 150 instances done.
+## Week 7: 12
+## Week 8: 19
+## Week 9: 26
+## Week 10: 03
+## Week 11: 
+## Week 12:
+
 
 # Project Steps
 1. Scraping/Data collection. **Data Size**: Start with a manageable amount (e.g., 1000-5000 sentences) and increase if required. Either use:
@@ -26,25 +28,45 @@
     - [Sinclair, J. (2004). Corpus and Text – Basic Principles. U: Wynne, M.,  DevelopingLinguistic Corpora: A Guide to Good Practice.](http://users.ox.ac.uk/~martinw/dlc/)
     - [Developing Linguistic Corpora: a Guide to Good Practice](http://icar.cnrs.fr/ecole_thematique/contaci/documents/Baude/wynne.pdf) . 
   - Removal of metadata (yes/no)
-5. Data annotation 
-6. Annotation schemes
-7. Data cleaning- Post
+  - How Data looks 
+  	- Sentence structure.
+  	- Put each sentence on one line
+  	- Do you wish to handle conditionals, speculations.
+- Annotation guidelines
+  - prepare the guidelines with scheme. Use the example put in omega or [Example 1 for negation detection](https://github.com/ltgoslo/norec_neg/blob/main/annotation_guidelines/guidelines_neg.md)
+  - Take 150 random instances
+  	- All group members perform independent annotation. 
+  	- sit together and discuss abnormalities, problems.
+    - note down the problems and solutions decided.   
+  	- Update the annotation guidelines
+- ### TBD by 05-04-24
+-----------------------------------------------------------------
+- Re-annotate the whole dataset (3k-5k)
+7. Data cleaning- Post [if required]
 8. Exploratory data analysis 
   - Data distribution 
   - Size – Tokens and sentences/documents 
 9. Problem definition - [formal]
-10. Data annotation 
-  - Annotation guidelines: [Example 1 for negation detection](https://github.com/ltgoslo/norec_neg/blob/main/annotation_guidelines/guidelines_neg.md)
-  - Conflict handling 
   - Inter-annotator Agreement
   - Label distribution 
-10. Modelling 
+10. Modelling/Training 
 11. Performance metric 
 12. Error Analysis 
-13. Data Serving 
+13. Data Serving/Demo 
 
 - **Some steps might involve multiple iterations like preprocessing/cleaning**
 - Incase you finish one step you can read about next step.
+
+## Instructions
+- upload all the files on github.
+- keep track of all the activities and time (in hrs spent by each member each week).
+- document all steps.
+
+## Final Delieverables
+- Code/Demo
+- REPORT
+- PRESENTATION (8-10 min)
+
 
 **Useful Links**
 - [Learn Markdown/Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
