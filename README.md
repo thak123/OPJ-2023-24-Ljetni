@@ -78,8 +78,8 @@
 - [Spacy](https://spacy.io/models/hr)
   
 # Groups
-- https://github.com/laracoen/MKLPM/blob/main/README.md
-- https://github.com/BoViNiMa/OPJ/tree/main 
+- https://github.com/laracoen/MKLPM
+- https://github.com/BoViNiMa/OPJ
 - https://github.com/Sentimentalci/opjprojekt
-- https://github.com/My-Croatian-is-better-than-yours/SA-Comments/tree/main
+- https://github.com/My-Croatian-is-better-than-yours/SA-Comments
 - https://github.com/Serious-bus1ness/Uvod-u-projekt  
