@@ -4,14 +4,16 @@
 ## Week 3: 15.03.24: Corpus collection 
 ## Week 4: 22.03.24: Corpus collection complete 
 ## Week 5: 29.03.24: Data cleaning complete
-## Week 6: 05.03.24: Initial annotation campaign with 150 instances done.
-## Week 7: 12
-## Week 8: 19
-## Week 9: 26
-## Week 10: 03
-## Week 11: 
-## Week 12:
-
+## Week 6: 05.04.24: Initial annotation campaign with 150 instances done.
+## Week 7: 12.04.24: 
+## Week 8: 19.04.24: 
+## Week 9: 26.04.24:
+## Week 10: 03.05.24:
+## Week 11: 10.05.24:
+## Week 12: 17.05.24:
+## Week 13: 24.05.24:
+## Week 14: 31.05.24:
+## Week 15: 7.06.24: Presentation & Submissions (report, code, demo, timesheet)
 
 # Project Steps
 1. Scraping/Data collection. **Data Size**: Start with a manageable amount (e.g., 1000-5000 sentences) and increase if required. Either use:
