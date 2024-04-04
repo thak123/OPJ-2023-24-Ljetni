@@ -72,9 +72,10 @@
 -----------------------------------------------------------------------------------------
 # Notebooks
 ## 1. Lexicons
-1. [Lexicon-based SA **Notebook**](https://github.com/harika-bonthu/Lexicon-based-SentimentAnalysis/blob/main/lexicon_based_sentiment_analysis.ipynb)
-2. [Example of lexicons](https://github.com/evanmartua34/Twitter-COVID19-Indonesia-Sentiment-Analysis---Lexicon-Based/blob/master/lexicon/InSet-master/negative.tsv)
-3. 
+1. [Lexicon-based SA **Notebook (Code)**](https://github.com/harika-bonthu/Lexicon-based-SentimentAnalysis/blob/main/lexicon_based_sentiment_analysis.ipynb)
+2. [Example lexicon](https://github.com/evanmartua34/Twitter-COVID19-Indonesia-Sentiment-Analysis---Lexicon-Based/blob/master/lexicon/InSet-master/negative.tsv)
+3. SentiWordnet - [Resource](https://github.com/aesuli/SentiWordNet), [paper 1](https://aclanthology.org/L06-1225/), [paper 2](https://aclanthology.org/L10-1531/)
+4. Wordnet - [Search:Dog](http://wordnetweb.princeton.edu/perl/webwn?s=Dog&sub=Search+WordNet&o2=&o0=1&o8=1&o1=1&o7=&o5=&o9=&o6=&o3=&o4=&h=00000000)
 
 **Useful Links**
 - [Learn Markdown/Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
