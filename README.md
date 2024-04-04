@@ -75,7 +75,11 @@
 1. [Lexicon-based SA **Notebook (Code)**](https://github.com/harika-bonthu/Lexicon-based-SentimentAnalysis/blob/main/lexicon_based_sentiment_analysis.ipynb)
 2. [Example lexicon](https://github.com/evanmartua34/Twitter-COVID19-Indonesia-Sentiment-Analysis---Lexicon-Based/blob/master/lexicon/InSet-master/negative.tsv)
 3. SentiWordnet - [Resource](https://github.com/aesuli/SentiWordNet), [paper 1](https://aclanthology.org/L06-1225/), [paper 2](https://aclanthology.org/L10-1531/), [Code](1.sentiwordnet/code.py)
-4. Wordnet - [Search:Dog](http://wordnetweb.princeton.edu/perl/webwn?s=Dog&sub=Search+WordNet&o2=&o0=1&o8=1&o1=1&o7=&o5=&o9=&o6=&o3=&o4=&h=00000000)
+4. WordNet - [Search:Dog](http://wordnetweb.princeton.edu/perl/webwn?s=Dog&sub=Search+WordNet&o2=&o0=1&o8=1&o1=1&o7=&o5=&o9=&o6=&o3=&o4=&h=00000000)
+5. [WordNet Domains](https://wndomains.fbk.eu/labels.html)
+6. [WordNet Affect](https://wndomains.fbk.eu/wnaffect.html)
+7. [General Inquirer](https://inquirer.sites.fas.harvard.edu/kellystone.htm)
+8. [ ]
 
 **Useful Links**
 - [Learn Markdown/Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
