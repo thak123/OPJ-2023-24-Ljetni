@@ -69,6 +69,12 @@
 - REPORT
 - PRESENTATION (8-10 min)
 
+-----------------------------------------------------------------------------------------
+# Notebooks
+## 1. Lexicons
+1. [Lexicon-based SA **Notebook**](https://github.com/harika-bonthu/Lexicon-based-SentimentAnalysis/blob/main/lexicon_based_sentiment_analysis.ipynb)
+2. [Example of lexicons](https://github.com/evanmartua34/Twitter-COVID19-Indonesia-Sentiment-Analysis---Lexicon-Based/blob/master/lexicon/InSet-master/negative.tsv)
+3. 
 
 **Useful Links**
 - [Learn Markdown/Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
