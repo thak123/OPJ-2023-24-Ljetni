@@ -49,9 +49,9 @@
   - Data distribution 
   - Size – Tokens and sentences/documents 
 9. Problem definition - [formal]
-  - Inter-annotator Agreement
-    - fleiss Kappa [read](https://en.wikipedia.org/wiki/Fleiss%27_kappa), [Code](https://www.statsmodels.org/stable/generated/statsmodels.stats.inter_rater.fleiss_kappa.html)  
-  - Label distribution 
+  - Compute Inter-annotator Agreement
+    - fleiss Kappa [read](https://en.wikipedia.org/wiki/Fleiss%27_kappa), [Code](https://www.statsmodels.org/stable/generated/statsmodels.stats.inter_rater.fleiss_kappa.html)
+  - Compute label distribution 
 10. Modelling/Training 
 11. Performance metric 
 12. Error Analysis 
