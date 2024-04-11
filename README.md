@@ -87,6 +87,8 @@
 7. [General Inquirer](https://inquirer.sites.fas.harvard.edu/kellystone.htm)
 
 ## 2. Machine Learning
+- Feature extraction
+  - [TF-IDF](https://www.learndatasci.com/glossary/tf-idf-term-frequency-inverse-document-frequency)
 1. Logistic Regression
     - [Code](https://github.com/jeffprosise/Machine-Learning/blob/master/Sentiment%20Analysis.ipynb),
     - [Code with cross-validation](https://github.com/amirkrifa/kaggle-w2vec/blob/master/linear-regression-sentiment-analysis.py)
@@ -96,6 +98,7 @@
 3. Naive Bayes
    - [explanation](code/Naive_Bayes.ipynb)   
    - [Code](https://github.com/gunjannandy/twitter-sentiment-analysis/blob/master/twitter-sentiment-analysis.ipynb)
+
 
 ## 3. Deep learning 
 1. Neural network 
