@@ -54,7 +54,7 @@
   - Compute Inter-annotator Agreement
     - fleiss Kappa [read](https://en.wikipedia.org/wiki/Fleiss%27_kappa), [Code](https://www.statsmodels.org/stable/generated/statsmodels.stats.inter_rater.fleiss_kappa.html)
   - Compute label distribution 
-10. Modelling/Training [Choose any 1 from each category, min-3 max-5]
+10. Modelling/Training [Choose any 1 from each category, min-3 max-5. Following list will be updated with more options and notebooks]
     - ML - SVM, NB, XGBOOST, Random Forest, Logistic Regression
     - SL - Word embeddings+CNN, 
     - DL - LLMS-based-(BERT, CROSLOENGUAL-BERT)
