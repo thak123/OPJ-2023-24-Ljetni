@@ -44,6 +44,8 @@
 - ### TBD by 05-04-24
 -----------------------------------------------------------------
 - Re-annotate the whole dataset (3k-5k)
+- ### TBD by 03-05-24
+-----------------------------------------------------------------
 7. Data cleaning- Post [if required]
 8. Exploratory data analysis 
   - Data distribution 
@@ -52,7 +54,10 @@
   - Compute Inter-annotator Agreement
     - fleiss Kappa [read](https://en.wikipedia.org/wiki/Fleiss%27_kappa), [Code](https://www.statsmodels.org/stable/generated/statsmodels.stats.inter_rater.fleiss_kappa.html)
   - Compute label distribution 
-10. Modelling/Training 
+10. Modelling/Training [Choose any 1 from each category, min-3 max-5]
+    - ML - SVM, NB, XGBOOST, Random Forest, Logistic Regression
+    - SL - Word embeddings+CNN, 
+    - DL - LLMS-based-(BERT, CROSLOENGUAL-BERT)
 11. Performance metric 
 12. Error Analysis 
 13. Data Serving/Demo 
@@ -80,7 +85,27 @@
 5. [WordNet Domains](https://wndomains.fbk.eu/labels.html)
 6. [WordNet Affect](https://wndomains.fbk.eu/wnaffect.html)
 7. [General Inquirer](https://inquirer.sites.fas.harvard.edu/kellystone.htm)
-8. [ ]
+
+## 2. Machine Learning
+1. Logistic Regression
+    - [Code](https://github.com/jeffprosise/Machine-Learning/blob/master/Sentiment%20Analysis.ipynb),
+    - [Code with cross-validation](https://github.com/amirkrifa/kaggle-w2vec/blob/master/linear-regression-sentiment-analysis.py)
+   
+2. Support Vector Machine
+   - [code](https://github.com/corinnaabigail/sentiment-analysis-python-with-support-vector-machine/blob/master/Sentiment%20Analysis%20with%20Python.ipynb)
+   - [Code with GridSearch](https://github.com/jatinwarade/Sentiment-analysis-using-SVM/blob/master/SVM.ipynb)
+3. Naive Bayes
+  - [explanation](code/Naive_Bayes.ipynb)   
+  - [Code](https://github.com/gunjannandy/twitter-sentiment-analysis/blob/master/twitter-sentiment-analysis.ipynb)
+
+## 3. Deep learning 
+1. Neural network 
+2. CNN - [visualisation](https://mandroid6.github.io/2017/11/10/Convolutional-Neural-Networks-I/), [vis 2](https://developer.nvidia.com/discover/convolutional-neural-network), [vis 3](https://www.analyticsvidhya.com/blog/2022/01/convolutional-neural-network-an-overview/)
+3. Vector representation/ Word embeddings 
+4. Word2Vec- [Croatian resource](https://sparknlp.org/2022/03/14/w2v_cc_300d_hr_3_0.html), [Skip-gram](https://www.clarin.si/repository/xmlui/handle/11356/1790), [fast-text](https://fasttext.cc/docs/en/crawl-vectors.html)
+5. 
+
+
 
 **Useful Links**
 - [Learn Markdown/Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
