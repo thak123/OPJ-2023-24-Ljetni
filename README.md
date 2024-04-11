@@ -90,13 +90,12 @@
 1. Logistic Regression
     - [Code](https://github.com/jeffprosise/Machine-Learning/blob/master/Sentiment%20Analysis.ipynb),
     - [Code with cross-validation](https://github.com/amirkrifa/kaggle-w2vec/blob/master/linear-regression-sentiment-analysis.py)
-   
 2. Support Vector Machine
    - [code](https://github.com/corinnaabigail/sentiment-analysis-python-with-support-vector-machine/blob/master/Sentiment%20Analysis%20with%20Python.ipynb)
    - [Code with GridSearch](https://github.com/jatinwarade/Sentiment-analysis-using-SVM/blob/master/SVM.ipynb)
 3. Naive Bayes
-  - [explanation](code/Naive_Bayes.ipynb)   
-  - [Code](https://github.com/gunjannandy/twitter-sentiment-analysis/blob/master/twitter-sentiment-analysis.ipynb)
+   - [explanation](code/Naive_Bayes.ipynb)   
+   - [Code](https://github.com/gunjannandy/twitter-sentiment-analysis/blob/master/twitter-sentiment-analysis.ipynb)
 
 ## 3. Deep learning 
 1. Neural network 
