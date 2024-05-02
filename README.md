@@ -8,7 +8,7 @@
 ## Week 7: 12.04.24: 
 ## Week 8: 19.04.24: 
 ## Week 9: 26.04.24:
-## Week 10: 03.05.24:
+## Week 10: 03.05.24: Re-annotate the whole dataset (3k-5k)
 ## Week 11: 10.05.24:
 ## Week 12: 17.05.24:
 ## Week 13: 24.05.24:
