@@ -61,6 +61,7 @@
     - Alternate libraries - [Spacy](https://freedium.cfd/https://towardsdatascience.com/building-sentiment-classifier-using-spacy-3-0-transformers-c744bfc767b)
     - Free to do extra
       - In addtion, Cross-lingual strategies -  Machine Translation [Library](https://github.com/soimort/translate-shell), use existing datasets in same domain but different langauges (with transformers)
+      - **DONT FORGET TO SAVE U R MODELS (Locally or Online)**
 11. Performance metric 
 12. Error Analysis
   - where does the model fail? What are some interesting examples? Metaphors, figurative speech ? Future work ? 
