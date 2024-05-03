@@ -57,7 +57,7 @@
 10. Modelling/Training [Choose any 1 from each category, min-3 max-5. Following list will be updated with more options and notebooks]
     - ML - SVM, NB, [XGBOOST](https://xgboost.readthedocs.io/en/stable/get_started.html), Random Forest, Logistic Regression, [Supervised Algorithms](https://scikit-learn.org/stable/supervised_learning.html)
     - SL - Word embeddings+CNN,[sentiment notebooks](https://github.com/bentrevett/pytorch-sentiment-analysis)
-    - DL - LLMS-based-(BERT,)[CROSLOENGUAL-BERT](https://github.com/thak123/Cro-Movie-reviews-training)
+    - DL - LLMS-based-(BERT,)[CROSLOENGUAL-BERT](https://github.com/thak123/Cro-Movie-reviews-training),[LLAMA Mode](code/llam_train_7b.py)
     - Alternate libraries - [Spacy](https://freedium.cfd/https://towardsdatascience.com/building-sentiment-classifier-using-spacy-3-0-transformers-c744bfc767b)
     - Free to do extra
       - In addtion, Cross-lingual strategies -  Machine Translation [Library](https://github.com/soimort/translate-shell), use existing datasets in same domain but different langauges (with transformers)
