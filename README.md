@@ -105,7 +105,8 @@
 3. Naive Bayes
    - [explanation](code/Naive_Bayes.ipynb)   
    - [Code](https://github.com/gunjannandy/twitter-sentiment-analysis/blob/master/twitter-sentiment-analysis.ipynb)
-
+4. Xgboost
+   - [Clean-train-predict code](code/Demo-1.ipynb)
 
 ## 3. Deep learning 
 1. Neural network 
