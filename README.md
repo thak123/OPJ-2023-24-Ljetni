@@ -67,7 +67,8 @@
 12. Error Analysis
   - where does the model fail? What are some interesting examples? Metaphors, figurative speech ? Future work ? 
 13. Data Serving/Demo
-  - [Demo example](https://huggingface.co/spaces/thak123/Cro-Frida-Demo?logs=build) 
+  - [Demo example](https://huggingface.co/spaces/thak123/Cro-Frida-Demo?logs=build)
+  - [Tutorial on Transformers and Demo](https://medium.com/@benjaminkipkem/sentiment-analysis-gradio-app-fd0fc86cfd86)
 
 **Some steps might involve multiple iterations like preprocessing/cleaning**
 - Incase you finish one step you can read about next step.
