@@ -31,6 +31,7 @@ Modelling/Training [Choose any 1 from each category, min-3 max-5. Following list
   
 ## Conclusion and future work
 
-## Demo link
+## Links
+- Code/dataset/demo
 
 ## References (if any)
