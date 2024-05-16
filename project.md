@@ -20,9 +20,9 @@ Modelling/Training [Choose any 1 from each category, min-3 max-5. Following list
 ### Method 1
   - ML - ML - SVM, NB, [XGBOOST](https://xgboost.readthedocs.io/en/stable/get_started.html), Random Forest, Logistic Regression, [Supervised Algorithms](https://scikit-learn.org/stable/supervised_learning.html)
 ### Method 2
-  - SL - Word embeddings+CNN,[sentiment notebooks](https://github.com/bentrevett/pytorch-sentiment-analysis)
+  - SL - Word embeddings+CNN, [sentiment notebooks](https://github.com/bentrevett/pytorch-sentiment-analysis)
 ### Method 3
- - DL - LLM-based-(BERT/[CROSLOENGUAL-BERT](https://github.com/thak123/Cro-Movie-reviews-training), [LLAMA Model](code/llam_train_7b.py)
+ - DL - LLM-based-(BERT/[CROSLOENGUAL-BERT](https://github.com/thak123/Cro-Movie-reviews-training)), [LLAMA Model](code/llam_train_7b.py)
    
 ## Results and discussion
 - Summarise the results
