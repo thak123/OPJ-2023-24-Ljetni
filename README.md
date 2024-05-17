@@ -124,6 +124,7 @@
   
 # Tools
 - [Classla](https://pypi.org/project/classla/)
+- [Classla Annotation Tool v2](https://clarin.si/oznacevalnik/eng)
 - [Stanza](https://stanfordnlp.github.io/stanza/neural_pipeline.html)
 - [Spacy](https://spacy.io/models/hr)
   
