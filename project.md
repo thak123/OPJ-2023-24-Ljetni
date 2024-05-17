@@ -34,6 +34,6 @@ Modelling/Training [Choose any min-3 max-5.].
 ## Conclusion and future work
 
 ## Links
-- Code/dataset/demo
+- Code/dataset/(demo showing your best model)
 
 ## References (if any)
