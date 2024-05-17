@@ -17,7 +17,9 @@
 
 ## Methodology
 Modelling/Training [Choose any min-3 max-5.].
-**Perform hyperparamter tuning and include the values in report.(for Baseline and the best scoring model)**
+
+**Perform hyperparamter tuning and include the values in report. If using tfidf-vectoriser dont forget to change the list of stopwords**
+
 ### Method 
   - ML - ML - SVM, NB, [XGBOOST](https://xgboost.readthedocs.io/en/stable/get_started.html), Random Forest, Logistic Regression, [Supervised Algorithms](https://scikit-learn.org/stable/supervised_learning.html)
 ### Method 
