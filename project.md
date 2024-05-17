@@ -16,7 +16,8 @@
 - Statisitics of train and test split [Train-test split](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html#sklearn.model_selection.train_test_split)
 
 ## Methodology
-Modelling/Training [Choose any 1 from each category, min-3 max-5. Following list will be updated with more options and notebooks]
+Modelling/Training [Choose any 1 from each category, min-3 max-5.].
+**Perform hyperparamter tuning and include the values in report.(for Baseline and the best scoring model)**
 ### Method 1
   - ML - ML - SVM, NB, [XGBOOST](https://xgboost.readthedocs.io/en/stable/get_started.html), Random Forest, Logistic Regression, [Supervised Algorithms](https://scikit-learn.org/stable/supervised_learning.html)
 ### Method 2
