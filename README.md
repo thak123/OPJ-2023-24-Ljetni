@@ -55,7 +55,7 @@
     - fleiss Kappa [read](https://en.wikipedia.org/wiki/Fleiss%27_kappa), [Code](https://www.statsmodels.org/stable/generated/statsmodels.stats.inter_rater.fleiss_kappa.html)
   - Compute label distribution
   - **Dont forget to perform Train Validation Test split** [function](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html#sklearn.model_selection.train_test_split)
-10. Modelling/Training [Choose any 1 from each category, min-3 max-5. Following list will be updated with more options and notebooks]
+10. Modelling/Training [Choose any min-3 max-5. Following list will be updated with more options and notebooks]
     - ML - SVM, NB, [XGBOOST](https://xgboost.readthedocs.io/en/stable/get_started.html), Random Forest, Logistic Regression, [Supervised Algorithms](https://scikit-learn.org/stable/supervised_learning.html)
     - SL - Word embeddings+CNN,[sentiment notebooks](https://github.com/bentrevett/pytorch-sentiment-analysis)
     - DL - LLMS-based-(BERT,) [CROSLOENGUAL-BERT](https://github.com/thak123/Cro-Movie-reviews-training), [LLAMA Model](code/llam_train_7b.py)
