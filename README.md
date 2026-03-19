@@ -16,11 +16,8 @@
 ## Week 15: 7.06.24: Presentation & Submissions (report, code, demo, timesheet)
 
 # Project Steps
-1. Scraping/Data collection. **Data Size**: Start with a manageable amount (e.g., 1000-5000 sentences) and increase if required. Either use:
-  - Web-scraping with selenium  or
-  - Manual scraping
+1. Scraping/Data collection. *
 2. Data organisation 
-  - file formats 
 3. Task description - [informal]
   - Goal: Are you building a sentiment analysis model for product reviews, social media analysis, or something else?
   - Target Sentiment: Are you interested in just positive/negative sentiment, or a wider range (e.g., very positive, neutral, very negative)?
@@ -41,10 +38,9 @@
   	- sit together and discuss abnormalities, problems.
     - note down the problems and solutions decided.   
   	- Update the annotation guidelines
-- ### TBD by 05-04-24
+
 -----------------------------------------------------------------
 - Re-annotate the whole dataset (3k-5k)
-- ### TBD by 03-05-24
 -----------------------------------------------------------------
 7. Data cleaning- Post [if required]
 8. Exploratory data analysis 
