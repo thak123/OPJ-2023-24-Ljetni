@@ -1,19 +1,4 @@
-# OPJ-2023-24
-## Week 1: 1
-## Week 2: 8
-## Week 3: 15.03.24: Corpus collection 
-## Week 4: 22.03.24: Corpus collection complete 
-## Week 5: 29.03.24: Data cleaning complete
-## Week 6: 05.04.24: Initial annotation campaign with 150 instances done.
-## Week 7: 12.04.24: 
-## Week 8: 19.04.24: 
-## Week 9: 26.04.24:
-## Week 10: 03.05.24: Re-annotate the whole dataset (3k-5k)
-## Week 11: 10.05.24:
-## Week 12: 17.05.24:
-## Week 13: 24.05.24:
-## Week 14: 31.05.24:
-## Week 15: 7.06.24: Presentation & Submissions (report, code, demo, timesheet)
+# OPJ
 
 # Project Steps
 1. Scraping/Data collection. *
