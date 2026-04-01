@@ -92,10 +92,15 @@
 
 ## 3. Deep learning 
 1. Neural network 
-2. CNN - [visualisation](https://mandroid6.github.io/2017/11/10/Convolutional-Neural-Networks-I/), [vis 2](https://developer.nvidia.com/discover/convolutional-neural-network), [vis 3](https://www.analyticsvidhya.com/blog/2022/01/convolutional-neural-network-an-overview/)
-3. Vector representation/ Word embeddings 
-4. Word2Vec- [Croatian resource](https://sparknlp.org/2022/03/14/w2v_cc_300d_hr_3_0.html), [Skip-gram](https://www.clarin.si/repository/xmlui/handle/11356/1790), [fast-text](https://fasttext.cc/docs/en/crawl-vectors.html)
-5. 
+2. CNN
+    - [visualisation](https://mandroid6.github.io/2017/11/10/Convolutional-Neural-Networks-I/),
+    - [vis 2](https://developer.nvidia.com/discover/convolutional-neural-network),
+    - [vis 3](https://www.analyticsvidhya.com/blog/2022/01/convolutional-neural-network-an-overview/),
+    - [CNN visualizer 4](https://adamharley.com/nn_vis/cnn/3d.html),[CNN Explainer 2](https://poloclub.github.io/cnn-explainer/),
+    - [Viusalizer](https://medium.com/@ultimateabhi/visualizing-convolutional-neural-networks-9b06543c09bf)
+4. Vector representation/ Word embeddings 
+5. Word2Vec- [Croatian resource](https://sparknlp.org/2022/03/14/w2v_cc_300d_hr_3_0.html), [Skip-gram](https://www.clarin.si/repository/xmlui/handle/11356/1790), [fast-text](https://fasttext.cc/docs/en/crawl-vectors.html)
+6. 
 
 
 
