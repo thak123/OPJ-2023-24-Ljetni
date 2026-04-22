@@ -28,7 +28,7 @@
 - Re-annotate the whole dataset (3k-5k)
 -----------------------------------------------------------------
 7. Data cleaning- Post [if required]
-8. Exploratory data analysis 
+8. Exploratory data analysis [EDA](notebooks/sentiment_eda.ipynb)
   - Data distribution 
   - Size – Tokens and sentences/documents 
 9. Problem definition - [formal]
